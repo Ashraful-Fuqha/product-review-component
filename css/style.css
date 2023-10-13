@@ -113,7 +113,7 @@ button:hover{
 
 @keyframes introLoad{
     0%{
-        transform: translateY(200px);
+        transform: translateY(70px);
         opacity: 0;
     }
     100%{
